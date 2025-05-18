@@ -62,7 +62,7 @@ export default function Myportfolio() {
         <span className="text-4xl font-bold">About Me:</span>
 
           <div className="w-full h-46 flex sm:flex-row gap-6 flex-col text-[#3B4756] relative top-24">
-              <div className="sm:w-[50%] w-[90%] text-3xl font-bold font-sans ml-8">Hello! My name is Hassan Nadeem, <br/> I'm freelancer web-developer with <br/> 2 year of experience</div>
+              <div className="sm:w-[50%] w-[90%] text-3xl font-bold font-sans ml-8">{`Hello! My name is Hassan Nadeem, <br/> I'm freelancer web-developer with <br/> 2 year of experience`}</div>
               <div className="sm:w-[50%] w-[100%] flex sm:justify-center sm:ml-0 ml-8">My goal is to create websites that not only <br/> reflect the client’s brand identity but also drive <br/> their business objectives</div>
           </div>
 
